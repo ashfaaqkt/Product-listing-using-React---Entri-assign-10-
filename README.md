@@ -3,7 +3,7 @@
 A responsive and dynamic Product Listing Application built using React. This project serves as a demonstration of modern frontend development skills, including state management, component reusability, and responsive design.
 
 ## Purpose
-This project was created by **Ashfaaq Feroz Muhammad** for the **Entri Assignment (10)** to demonstrate proficiency in React, functional components, and hook-based state management.
+This project created by **Ashfaaq Feroz Muhammad** for the **Entri Assignment (10)** to demonstrate proficiency in React, functional components, and hook-based state management.
 
 ## Features
 - **Product Display**: Grid layout displaying product images, names, prices, and ratings.
@@ -18,22 +18,21 @@ This project was created by **Ashfaaq Feroz Muhammad** for the **Entri Assignmen
 
 ## Tech Stack
 - **Framework**: React (Vite)
-- **Styling**: Vanilla CSS (CSS3 Variables, Flexbox, CSS Grid)
-- **Language**: JavaScript (ES6+)
+- **Styling**: CSS (CSS3 Variables, Flexbox, CSS Grid)
+- **Language**: JavaScript
 
 ## Project Structure
 ```
 product-list/
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx       # Header navigation
-│   │   ├── ProductCard.jsx  # Individual product component
-│   │   └── Footer.jsx       # Footer with credits
-│   ├── App.jsx              # Main application logic
-│   ├── data.js              # Mock product data
-│   ├── index.css            # Global styles and variables
-│   └── main.jsx             # Entry point
-└── README.md
+│   │   ├── Navbar.jsx       
+│   │   ├── ProductCard.jsx  
+│   │   └── Footer.jsx       
+│   ├── App.jsx              
+│   ├── data.js              
+│   ├── index.css            
+│   └── main.jsx             
 ```
 
 ## How to Run
